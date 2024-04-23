@@ -45,11 +45,7 @@ To get a local copy up and running, follow these simple steps.
 Please note that due to CORS restrictions on the free developer pack of the [News Api](https://newsapi.org), this application can only be deployed and used locally. Therefore, to use this application, please clone this repository and run it on your localhost.
 
 ## Video Review
-Watch the video review of the News Monkey app:
-<video width="640" height="360" controls>
-  <source src="review.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Watch the video review of the News Monkey app [here](https://drive.google.com/file/d/1z5BowTmhpISSySmWdptZ4jANjqIIpyom/view?usp=drive_link)
 
 ## Contributing
 Contributions are welcome! Here's how you can contribute:
