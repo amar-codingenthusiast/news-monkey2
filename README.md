@@ -33,6 +33,7 @@ To get a local copy up and running, follow these simple steps.
  - Infinite Scrolls
  - Top loading bar
  - Function based components
+ - Responsive design for all devices
 
 ## Built with
  - React.js
@@ -45,7 +46,10 @@ Please note that due to CORS restrictions on the free developer pack of the [New
 
 ## Video Review
 Watch the video review of the News Monkey app:
-<video width="640" height="360" controls src="review.mp4" type="video/mp4"></video>
+<video width="640" height="360" controls>
+  <source src="review.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Contributing
 Contributions are welcome! Here's how you can contribute:
